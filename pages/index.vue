@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto p-4">
-    <h1 class="text-3xl font-bold mb-6">Window Treatment Dashboard</h1>
+    <h1 class="text-3xl font-bold mb-6">Curtain and Blinds Dashboard</h1>
     
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
       <div class="bg-white p-6 rounded shadow-md">

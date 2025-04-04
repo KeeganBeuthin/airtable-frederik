@@ -3,7 +3,7 @@
     <nav class="bg-white shadow-md">
       <div class="container mx-auto px-4">
         <div class="flex justify-between items-center py-4">
-          <NuxtLink to="/" class="text-xl font-bold">Window Treatments</NuxtLink>
+          <NuxtLink to="/" class="text-xl font-bold">Curtains</NuxtLink>
           
           <div class="flex space-x-6">
             <NuxtLink to="/" class="hover:text-blue-600">Dashboard</NuxtLink>
@@ -22,7 +22,7 @@
     
     <footer class="bg-white py-4 border-t">
       <div class="container mx-auto px-4 text-center text-gray-600">
-        &copy; {{ new Date().getFullYear() }} Window Treatment Management
+        &copy; {{ new Date().getFullYear() }} Curtains/Blinds Management
       </div>
     </footer>
   </div>
